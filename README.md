@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-commerce web app](https://github.com/Muhammed-Nabhan/E-commerce-App-.git)
 
-- 🌱 I’m currently learning **React,Solidity**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammed-Nabhan](https://github.com/Muhammed-Nabhan)
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-nabhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-nabhan" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/muhammed_nabhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammed_nabhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-nabhan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-nabhan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/muhammed__nabhan?igsh=ddfsnm1sbhbnmnm4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammed__nabhan?igsh=ddfsnm1sbhbnmnm4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
