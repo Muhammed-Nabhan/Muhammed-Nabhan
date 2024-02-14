@@ -1,43 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muhammed-Nabhan GitHub Profile</title>
-    <style>
-        /* CSS code for the typing animation */
-        .typing-animation {
-            text-align: center;
-        }
-        .typing-animation h2, .typing-animation h3, .typing-animation p {
-            overflow: hidden; /* Hide overflow to create typing effect */
-            white-space: nowrap; /* Prevent line breaks */
-            margin: 0 auto; /* Center text */
-            display: inline-block; /* Display as inline block */
-            border-right: 2px solid; /* Add border for cursor effect */
-            padding-right: 5px; /* Add padding for cursor effect */
-        }
-        #cursor {
-            display: inline-block;
-            width: 8px;
-            height: 20px;
-            background-color: black; /* Cursor color */
-            animation: blink 1s infinite; /* Blink animation */
-        }
-       @keyframes blink {
-            0% {
-                opacity: 1;
-            }
-            50% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
-</head>
-<body>
 <h1 align="center">Hi 👋, I'm Muhammed-Nabhan</h1>
 <h3 align="center">An aspiring Computer Science Engineer with strong passion in Computer Vision and Web Development.</h3>
 
@@ -67,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-nabhan&show_icons=true&locale=en" alt="muhammed-nabhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-nabhan&" alt="muhammed-nabhan" /></p>
-</body>
